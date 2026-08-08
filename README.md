@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | JavaScript (React, Node.js)<br><br>Building scalable web applications with a strong focus on backend systems and API architecture.<br><br>- Currently building API Sentinel — an API monitoring and debugging platform designed to improve reliability and performance.<br>- Tech Stack: React, Next.js, Node.js, Express, Prisma, PostgreSQL  <br>- Skilled in CI/CD, deployments, and production workflows  <br>- Focused on authentication, system design, and performance optimization<br><br>I focus on writing clean, maintainable code and building systems that solve real problems.
+Full-Stack Developer | JavaScript, Typascript, Python (React, Next.js, Node.js, Express.js, FastAPI, Docker, Redis)<br><br>Building scalable web applications with a strong focus on backend systems and API architecture.<br><br>- Currently building API Sentinel — an API monitoring and debugging platform designed to improve reliability and performance.<br>- Tech Stack: React, Next.js, Node.js, Express, Prisma, PostgreSQL  <br>- Skilled in CI/CD, deployments, and production workflows  <br>- Focused on authentication, system design, and performance optimization<br><br>I focus on writing clean, maintainable code and building systems that solve real problems.
 
 
 ## 🌐 Socials:
